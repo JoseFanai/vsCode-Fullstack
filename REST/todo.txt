@@ -1,0 +1,8 @@
+RestAPI - JSON
+
+Get - /users -> Fetch all the users.
+
+Get - /users/1 -> Fetchthe user with ID 1.
+Get - /users/2 -> Fetchthe user with ID 2.
+
+Get - /users/:id 
